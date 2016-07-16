@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/../Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scala/scala.iml" filepath="$PROJECT_DIR$/../scala/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBoot_NoSQL/springboot_nosql.iml" filepath="$PROJECT_DIR$/../SpringBoot_NoSQL/springboot_nosql.iml" />
+    </modules>
+  </component>
+</project>

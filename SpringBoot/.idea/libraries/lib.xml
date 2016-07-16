@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Concurrency/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Concurrency/lib/sax2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Concurrency/lib/htmllexer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Concurrency/lib/htmlparser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Concurrency/lib/src0_82.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Concurrency/lib/thumbelina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Concurrency/lib/filterbuilder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
